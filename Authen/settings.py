@@ -24,6 +24,8 @@ STATIC_DIR=os.path.join(BASE_DIR,'static')
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'i-ru11_a3s_)mi6w9nzu#y&4@x%wu4ul-j#bwes*2r9+5p0&0t'
 
+
+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
